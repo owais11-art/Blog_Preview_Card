@@ -1,16 +1,10 @@
-# blog_preview_card
+# Blog Preview Card
 
-A new Flutter project.
+It is simple Blog Preview Card UI from [FrontEnd Mentors](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Create Flutter Project `flutter create <project-name>`
+- Clone this repository `git clone https://github.com/owais11-art/Blog_Preview_Card.git`
+- pub get (to install dependencies)
+- Run on the emulator or physical device
