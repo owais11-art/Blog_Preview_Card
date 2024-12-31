@@ -12,14 +12,6 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        // appBar: AppBar(
-        //   title: Text(
-        //     "Blog Preview Card",
-        //     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-        //   ),
-        //   backgroundColor: Color(0xFFf4d04e),
-        //   centerTitle: true,
-        // ),
         backgroundColor: Color(0xFFf4d04e),
         body: const Padding(
           padding: EdgeInsets.all(20),
